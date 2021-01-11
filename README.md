@@ -6,8 +6,8 @@ My automation scripts can save employees valuable time ⏲ from manual/repetitiv
 
 I’m currently learning 🌱 Artificial Intelligence and Machine Learning concepts.
 
-You can find me on,
-[Kaggle] (https://www.kaggle.com/sahistapatel96), or on
+You can find me on,<br>
+[Kaggle] (https://www.kaggle.com/sahistapatel96), or on<br>
 [LinkedIn] (www.linkedin.com/in/sahistapatel).
 
 <!--
