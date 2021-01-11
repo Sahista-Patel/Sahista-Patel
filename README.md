@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Holding 4+ experience 👩‍💻 with Automation, I believe employee satisfaction and engagement are vital to any organization.
+
+My automation scripts can save employees valuable time ⏲ from manual/repetitive tasks and employers from bottlenecks along with human-errors. I’m looking to develop similar scripts using my specialties in Python, Powershell, Java, C/C++ and logic building strategies that can stop the people from changing into robots 🤖 parallelly provide high-efficiency and throughput rates for an organization.
+
+I’m currently learning 🌱 Artificial Intelligence and Machine Learning concepts.
+
+You can find me on,
+[Kaggle] (https://www.kaggle.com/sahistapatel96), or on
+[LinkedIn] (www.linkedin.com/in/sahistapatel).
+
 <!--
 **Sahista-Patel/Sahista-Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
