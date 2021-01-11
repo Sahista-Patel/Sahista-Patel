@@ -7,8 +7,8 @@ My automation scripts can save employees valuable time ⏲ from manual/repetitiv
 I’m currently learning 🌱 Artificial Intelligence and Machine Learning concepts.
 
 You can find me on,<br>
-*[Kaggle](https://www.kaggle.com/sahistapatel96), or on
-*[LinkedIn](www.linkedin.com/in/sahistapatel).
+[Kaggle](https://www.kaggle.com/sahistapatel96), or on
+[LinkedIn](www.linkedin.com/in/sahistapatel).
 
 <!--
 **Sahista-Patel/Sahista-Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
