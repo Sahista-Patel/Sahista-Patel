@@ -8,7 +8,7 @@ I’m currently learning 🌱 Artificial Intelligence and Machine Learning conce
 
 You can find me on,<br>
 [Kaggle](https://www.kaggle.com/sahistapatel96), or on
-[LinkedIn](www.linkedin.com/in/sahistapatel).
+[LinkedIn](https://www.linkedin.com/in/sahistapatel/).
 
 <!--
 **Sahista-Patel/Sahista-Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
