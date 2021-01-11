@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Holding 4+ experience 👩‍💻 with Automation, I believe employee satisfaction and engagement are vital to any organization.
+Holding experience 👩‍💻 with Automation, I believe employee satisfaction and engagement are vital to any organization.
 
 My automation scripts can save employees valuable time ⏲ from manual/repetitive tasks and employers from bottlenecks along with human-errors. I’m looking to develop similar scripts using my specialties in Python, Powershell, Java, C/C++ and logic building strategies that can stop the people from changing into robots 🤖 parallelly provide high-efficiency and throughput rates for an organization.
 
